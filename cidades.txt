@@ -1,0 +1,6 @@
+Fortaleza: 20000
+Cuiaba: 15000
+Santos: 30000
+Joinvile: 60000
+Vila Nova: 18000
+Maceio: 27000

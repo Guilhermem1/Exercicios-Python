@@ -1,0 +1,5 @@
+gerando um conteudo em x
+Escrever dados em um arquivo é muito facil.
+ Podemos escrever quantas linhas quisermos.
+Esse arquivo é diferente, dados um arquivo linhas
+Essa é a ultima linha.
